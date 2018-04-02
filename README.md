@@ -8,7 +8,7 @@
 - [Emotion JS](#emotion-js)
   - [General Resources](#general-resources)
   - [Community](#community)
-  - [Articles] (#articles)
+  - [Articles](#articles)
   - [Videos](#videos)
 
 - [License](#license)
