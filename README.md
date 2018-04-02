@@ -8,6 +8,8 @@
 - [Emotion JS](#emotion-js)
   - [General Resources](#general-resources)
   - [Community](#community)
+  - [Videos](#videos)
+
 - [License](#license)
 
 
@@ -21,6 +23,11 @@
 
 #### Community
 * [Slack](https://emotion.now.sh/)
+
+#### Videos
+
+* [How to get Create React App to work with Typescript and Emotion
+](https://youtu.be/gt8x6uODvEQ) 
 
 ---
 ### Contribute
