@@ -8,6 +8,7 @@
 - [Emotion JS](#emotion-js)
   - [General Resources](#general-resources)
   - [Community](#community)
+  - [Articles] (#articles)
   - [Videos](#videos)
 
 - [License](#license)
@@ -23,6 +24,9 @@
 
 #### Community
 * [Slack](https://emotion.now.sh/)
+
+### Articles
+* [emotion](https://medium.com/@tkh44/emotion-ad1c45c6d28b)
 
 #### Videos
 
