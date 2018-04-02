@@ -18,7 +18,7 @@
 > The Next Generation of CSS-in-JS
 
 #### General Resources
-* [Official Site](https://www.emotion.sh/)
+* [Official Site](https://emotion.sh/)
 * [GitHub](https://github.com/emotion-js/emotion)
 
 #### Community
