@@ -27,7 +27,7 @@
 * [Slack](https://emotion.now.sh/)
 
 ### Frameworks UI
-* (slackercode-ui-react)[https://github.com/styled-components/awesome-styled-component]
+* [slackercode-ui-react](https://github.com/styled-components/awesome-styled-component)
 
 ### Articles
 * [emotion](https://medium.com/@tkh44/emotion-ad1c45c6d28b)
